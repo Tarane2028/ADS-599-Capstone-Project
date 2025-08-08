@@ -1,4 +1,4 @@
-# ADS-599 Capstone Project: Spatial-Temporal and Predictive Modeling of Radiological Contaminant Exceedances in California Public Water Systems
+# ADS-599 Capstone Project: Spatial-Temporal and Predictive Modeling of Chemical Contaminant Exceedances in California Public Water Systems
 
 ## Overview
 This repository contains the code, data processing scripts, analysis notebooks, and dashboard for our ADS-599 capstone project. We perform a comprehensive spatial-temporal analysis of radiological contaminant results from California’s public water systems, quantify exceedance rates of EPA Maximum Contaminant Levels (MCLs), and build predictive models to identify system characteristics that drive risk.
